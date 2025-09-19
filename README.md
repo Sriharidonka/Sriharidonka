@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srihari Donka</h1>
-<h3 align="center">Aspirant to be a Data Scientist</h3>
+<h3 align="center">Aspirant to be a Data Analyst</h3>
 
-- 🌱 I’m currently learning **C,Python**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://portfolionom.vercel.app/srihari](https://portfolionom.vercel.app/srihari)
-
-- 💬 Ask me about **C,Python**
 
 - 📫 How to reach me **sriharidonka33@gmail.com**
 
