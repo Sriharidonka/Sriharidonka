@@ -28,8 +28,7 @@ Turning data into meaningful insights 📊
 
 ### 📊 Projects
 - 📌 Excel Salary Dashboard – Data visualization using Excel  
-- 📌 Heart Disease Prediction – Machine Learning project  
-- 📌 Pest Forecasting System – Predictive analytics project  
+- 📌 SQL Data Analysis Project – (Coming Soon)  
 
 ---
 
@@ -37,7 +36,7 @@ Turning data into meaningful insights 📊
 <p align="left">
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/sql.png" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://img.icons8.com/color/48/python.png" width="40"/>
 <img src="https://img.icons8.com/color/48/git.png" width="40"/>
 </p>
