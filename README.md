@@ -25,27 +25,26 @@ Turning data into meaningful insights 📊
 
 ### 📊 Projects
 
-* 📌 **Power BI Sales Dashboard**
+* 📌 **[Power BI Sales Dashboard](https://github.com/Sriharidonka/PowerBI-Sales-Analysis-Report.git)**
 
   * KPI tracking (Revenue, Profit, Growth)
   * Time-based analysis (MTD, QTD, YTD)
-  * Data transformation & modeling
-  * Business insights and trend analysis
-  * ✅ *Impact: Enabled quick identification of sales trends and performance gaps for better decision-making*
+  * Data transformation & business insights
+  * ✅ *Impact: Enabled quick identification of sales trends and performance gaps*
 
-* 📌 **Excel Salary Dashboard Analysis**
+* 📌 **[Excel Salary Dashboard Analysis](https://github.com/Sriharidonka/excel-salary_dashboard.git)**
 
   * Data cleaning and preprocessing
   * Interactive dashboard with charts
-  * Insights on salary trends and distributions
-  * ✅ *Impact: Simplified salary data interpretation and helped uncover key compensation patterns*
+  * Salary trend analysis
+  * ✅ *Impact: Simplified salary data interpretation and uncovered key patterns*
 
-* 📌 **Insurance Claims Analysis (Power BI)**
+* 📌 **[Insurance Claims Analysis (Power BI)](https://github.com/Sriharidonka/PowerBI-Insurance-Analysis-Dashboard.git)**
 
-  * Claims trends and customer insights
-  * KPI cards and report-level analysis
-  * Data-driven business recommendations
-  * ✅ *Impact: Provided insights into claim patterns to support risk assessment and operational improvements*
+  * Claims trend analysis and KPIs
+  * Customer insights and reporting
+  * Data-driven recommendations
+  * ✅ *Impact: Supported risk assessment through claim pattern analysis*
 
 ---
 
